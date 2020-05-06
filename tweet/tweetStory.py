@@ -7,10 +7,10 @@ import markovify
 
 
 #Twitter API credentials
-consumer_key = "C2fnFi1KVK5xD5ZaRjjr0kqwk"
-consumer_secret = "QoXsX9RM8ytNxKjUjt7ZF7osyPv2yXypUnSfxQhAGA9nqunntM"
-access_key = "1000528231840141312-fU9Eh3N0ic1OPru6xeob5SkAu8qDoy"
-access_secret = "aDaRftaVGShcXIF2qXBivbr6LAREz5O3XX8LKfLc24y4W"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 alleamtweets = []
 alluserstweets = []
