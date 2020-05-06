@@ -17,5 +17,16 @@ SheriffBot is a multi-functionality Twitter bot program. Here are the main featu
     Ask the SheriffBot to draw a picture for you in the Twitter DMs by typing "draw me a _____" with your desired object. The qureying code for this is located 
     within the gbbpot.py file and utilizes the Google QuickDraw API to pull the binaries for each requested object from the online database.
     
+    Watch:
+    
+    ![Sample1](/utils/object.png)
+    
+    
+    Cat:
+    
+    ![Sample2](/utils/my_anvil.gif)
+    
+    
+    
     
 This program is in EXTREMELY rudimentary stages, so beware when trying to run! Changes will be made as time progresses, but please reach out with any questions or ideas!
