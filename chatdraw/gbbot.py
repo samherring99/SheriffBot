@@ -13,10 +13,10 @@ import string
 import warnings
 
 #Twitter API credentials
-consumer_key = "C2fnFi1KVK5xD5ZaRjjr0kqwk"
-consumer_secret = "QoXsX9RM8ytNxKjUjt7ZF7osyPv2yXypUnSfxQhAGA9nqunntM"
-access_key = "1000528231840141312-vqNwnIpgh4vWTHDF80aLpPTOVYuhyL"
-access_secret = "gCawA9doIGKDhKz9B5DpWn65TCcoSfXwh2cHX70xbf44P"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 def get_formalities_response(formality) :
     if any(remove_punctuation_marks(formality).lower() in remove_punctuation_marks(greet).lower() for greet in constants.GREETING_INPUTS) :
